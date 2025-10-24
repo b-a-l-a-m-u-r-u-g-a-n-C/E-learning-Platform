@@ -46,16 +46,11 @@ This platform aims to enhance the learning experience by presenting lessons, vid
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your homepage, course page, etc.)
-
----
-
 ## 👨‍💻 Developer
-**Developed by:** *Your Name*  
+**Developed by:** *BALAMURUGAN*  
 **Role:** Frontend Developer / Full Stack Developer  
 **Technologies:** HTML | CSS | JavaScript | Bootstrap  
-**LinkedIn/GitHub:** [Your Links]
+
 
 ---
 
